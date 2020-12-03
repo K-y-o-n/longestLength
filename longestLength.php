@@ -23,5 +23,6 @@ function longestLength($str){
   }return $arr;
 };
 print_r(longestLength($str));
+print(count(longestLength($str)));
 
 ?>
